@@ -1,0 +1,6 @@
+{
+  "uuid": "audio-output@arjun",
+  "name": "Audio Output Switcher",
+  "description": "Top-bar icon showing the current sound output (speakers, headphones, Bluetooth, HDMI). Click to pick another output.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"]
+}
